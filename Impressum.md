@@ -1,4 +1,4 @@
-# Datenschutzerklärung
+# Datenschutzerklärung - ENTWURF
 
 Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003). In diesen Datenschutzinformationen informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website.
 
@@ -16,7 +16,18 @@ Wir weisen darauf hin, dass zum Zweck der Verleihabwicklung die IP-Daten des Ans
 
 Bei Löschung einer Lastenrad-Buchung werden diese bei uns gespeicherten Daten gelöscht.
 
-# TODO: dem verleihprozess zugeordneten daten besser beschreiben.
+# TODO: dem online-Verleihprozess zugeordneten daten besser beschreiben.
+
+
+## Identitätsbestätigung bei der Abholung eines Lastenrades
+
+Bei der Abholung des Lastenrades müssen Sie Ihre Identität mit deinem (amtlichen) Lichtbildausweis bestätigen und Ihren Namen, Anschrift, Telefon-Nummer, Art und Nummer Ihres Lichtbild-Ausweises, sowie den Zeitraum und die Verleihstation Ihrer Ausleie in einem Papier-Formular angeben. Dieses Papier-Formular wird von der Verleih-Station aufbewahrt und bei einem etwaigen Wechsel der Verleih-Station zur Aufbewarung an den Verein zur Förderung von Lastenrädern übergeben. 
+
+Diese Daten werden nicht an Dritte weitergegeben. Nach sechs Monaten werden die Papier-Formulare und damit die darauf erhobenen Daten vernichtet.
+
+# TODO: Aufbewahrungs-Zeitraum 
+
+
 
 ## Cookies
 
