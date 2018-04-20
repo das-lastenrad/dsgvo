@@ -28,6 +28,10 @@ Wenn Sie dies nicht wünschen, so können Sie Ihren Browser so einrichten, dass 
 
 Bei der Deaktivierung von Cookies kann die Funktionalität unserer Website eingeschränkt sein.
 
+## Web-Analyse
+
+Diese Webseite benutzt die Open-Source-Software Matomo (https://matomo.org/). Mithilfe von Matomo werden statistische Auswertungen von Besucherzahlen gemacht und Reports für den Webseitenbetreiber erstellt. Matomo ist datenschutzkonform konfiguriert, Ihre IP-Adresse wird zwar erfasst, aber umgehend (z.B. durch Löschung der letzten 8 Bit) pseudonymisiert. Dadurch ist nur mehr eine grobe Lokalisierung möglich. Durch Aktivierung der „Do-Not-Track“ Option“ Ihres Browsers, wird Ihr Besuch automatisch ignoriert. Durch die  Nutzung dieser Website erklären Sie sich mit der Bearbeitung der über Ihren Besuch erhobenen Daten durch Matomo einverstanden.
+
 
 ## Newsletter
 
@@ -35,7 +39,7 @@ Sie haben die Möglichkeit, über unsere Website unseren Newsletter zu abonniere
 
 Das Abo des Newsletters können Sie jederzeit stornieren. Senden Sie Ihre Stornierung bitte an folgende E-Mail-Adresse: **newsletter@das-lastenrad.at**. Wir löschen anschließend umgehend Ihre Daten im Zusammenhang mit dem Newsletter-Versand.
 
-# TODO: ist eine einwilligung ausschliesslich bei Registrierung oder auch nachträglich möglich?
+# TODO: ist eine Newsletter Einwilligung ausschliesslich bei Registrierung oder auch nachträglich möglich?
 
 ## Ihre Rechte
 
