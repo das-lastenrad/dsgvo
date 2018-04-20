@@ -1,6 +1,6 @@
 # Erteilung der Auskunft nach Art 15 DSGVO - MUSTER
 
-Sehr geehrte/r [AuskunftswerberIn], 
+Sehr geehrte/r **[AuskunftswerberIn]**, 
 
 1. Ihren Antrag auf Auskunft nach Art 15 DSGVO haben wir am **[Datum]** erhalten. Sie haben darin Ihre Identität ausreichend nachgewiesen.
 
